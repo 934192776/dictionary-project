@@ -18,7 +18,15 @@ export default function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small>Coded by Jing Hui</small>
+          <small>
+            Coded by 
+            <a 
+              href="https://github.com/934192776" 
+              target="_blank"
+            >
+                Jinghui
+            </a>
+          </small>
         </footer>
       </div>
     </div>
