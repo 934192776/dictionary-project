@@ -22,8 +22,7 @@ export default function App() {
             Coded by 
             <a 
               href="https://github.com/934192776" 
-              target="_blank"
-            >
+              target="_blank" rel="noopener noreferrer">
                 Jinghui
             </a>
           </small>
